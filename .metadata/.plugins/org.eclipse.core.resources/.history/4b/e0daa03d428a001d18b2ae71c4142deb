@@ -1,0 +1,37 @@
+package kr.co.ch02;
+
+public class SamsungTV implements TV {
+
+	@Override
+	public void powerOn() {
+		System.out.println("SamsungTV powerOn...");
+	}
+
+	@Override
+	public void powerOff() {
+		System.out.println("SamsungTV powerOff...");
+	}
+
+	@Override
+	public void chUp() {
+		System.out.println("SamsungTV chUp...");
+	}
+
+	@Override
+	public void chDown() {
+		System.out.println("SamsungTV pchDown...");
+	}
+
+	@Override
+	public void soundUp() {
+		System.out.println("SamsungTV soundUp...");
+	}
+
+	@Override
+	public void soundDown() {
+		System.out.println("SamsungTV soundDown...");
+	}
+	
+	
+	
+}

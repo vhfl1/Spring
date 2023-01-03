@@ -1,0 +1,11 @@
+package kr.co.ch03;
+/*
+ * 날짜 : 2023/01/03
+ * 이름 : 윤사랑
+ * 내용 : 스프링 AOP 실습하기
+ */
+public class AOPMain {
+	public static void main(String[] args) {
+		
+	}
+}
