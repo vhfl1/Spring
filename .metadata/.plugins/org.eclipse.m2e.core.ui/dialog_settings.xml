@@ -2,12 +2,14 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="kr.co.ch04"/>
 			<item value="kr.co.ch02"/>
 			<item value="kr.co.ch01"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Ch04"/>
 			<item value="Ch02"/>
 			<item value="Ch01"/>
 		</list>
@@ -64,12 +66,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="kr.co.ch03"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="Ch03"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
