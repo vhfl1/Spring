@@ -50,7 +50,7 @@ public class User3Controller {
 		return "redirect:/user3/list";
 	}
 	
-	@PostMapping("/user3/delete")
+	@GetMapping("/user3/delete")
 	public String delete(String uid) {
 		service.deleteUser3(uid);
 		
