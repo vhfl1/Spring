@@ -47,12 +47,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="kr.co.bookStore.BookStore"/>
 			<item value="kr.co.ch05.Ch05"/>
 		</list>
 		<list key="groupId">
+			<item value="kr.co.bookStore"/>
 			<item value="kr.co.ch05"/>
 		</list>
 		<list key="artifactId">
+			<item value="BookStore"/>
 			<item value="Ch05"/>
 		</list>
 		<list key="projectNameTemplate">
