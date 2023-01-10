@@ -4,7 +4,7 @@
   "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="book">
 	<insert id="insertBook">
-		INSERT INTO `book` VALUES (#{bookName}, #{publisher}, #{price});
+		INSERT INTO `book` (`bookName`,`publisher`,`price`) VALUES (#{bookName}, #{publisher}, #{price});
 	</insert>
   	<select id="selectBook" resultType="kr.co.bookStore.vo.BookVO">
   		SELECT * FROM `book` WHERE `bookId`=#{bookId};

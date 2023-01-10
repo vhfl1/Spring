@@ -15,7 +15,7 @@ public class CustomerDAO {
 	private SqlSessionTemplate mybatis;
 	
 	public void insertCustomer(CustomerVO vo) {
-		mybatis.insert("customer.insertcustomer", vo);
+		mybatis.insert("customer.insertCustomer", vo);
 	};
 	
 	public CustomerVO selectCustomer(String custId) {

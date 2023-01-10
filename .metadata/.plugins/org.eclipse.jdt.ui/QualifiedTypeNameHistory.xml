@@ -30,7 +30,6 @@
     <fullyQualifiedTypeName name="kr.co.ch05.controller.User3Controller"/>
     <fullyQualifiedTypeName name="kr.co.ch05.vo.User3VO"/>
     <fullyQualifiedTypeName name="kr.co.bookStore.dao.BookDAO"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="kr.co.bookStore.service.BookService"/>
     <fullyQualifiedTypeName name="kr.co.bookStore.vo.BookVO"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
@@ -45,4 +44,5 @@
     <fullyQualifiedTypeName name="kr.co.bookStore.vo.CustomerVO"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 </qualifiedTypeNameHistroy>

@@ -11,6 +11,7 @@
 		<a href="/BookStore/index">처음으로</a>
 		<a href="/BookStore/customer/list">고객목록</a>
 		
+		<form action="/BookStore/customer/register" method="post">
 		<table border="1">
 			<tr>
 				<th>고객명</th>
@@ -30,5 +31,6 @@
 				</td>
 			</tr>
 		</table>
+		</form>
 	</body>
 </html>
