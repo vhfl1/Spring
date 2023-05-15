@@ -1,5 +1,0 @@
-package kr.co.ch03.advice;
-
-public class BeforeAdvice {
-
-}
